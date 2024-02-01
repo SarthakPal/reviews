@@ -1,11 +1,10 @@
 package com.lld.reviewSystem.user;
 
-import com.gb.reviews.repository.UserRepository;
 import lombok.Getter;
 import lombok.Setter;
-
 import java.time.LocalDateTime;
 import java.util.Random;
+import com.lld.reviewSystem.repository.UserRepository;
 
 @Getter
 @Setter

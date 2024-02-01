@@ -1,6 +1,6 @@
 package com.lld.reviewSystem.review;
 
-import com.gb.reviews.utils.Utils;
+import com.lld.reviewSystem.utils.Utils;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
